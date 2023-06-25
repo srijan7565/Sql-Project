@@ -5,6 +5,7 @@ Table: Employee
 • id is the primary key column for this table.
 • Each row of this table indicates the ID of an employee, their name, salary, and the ID of their
 manager.
+
 ![image](https://github.com/srijan7565/srijang-my-repo/assets/133694651/3a1b4f6d-083f-44e6-a4e9-a20266c85354)
 
 select e.name as Employee
