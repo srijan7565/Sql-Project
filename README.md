@@ -1,4 +1,4 @@
-I built an interactive report that analyzed pizza sales data.
+I built an interactive report that analyzed pizza sales data using SQL.
 
 📌 𝐓𝐇𝐄 𝐂𝐇𝐀𝐋𝐋𝐄𝐍𝐆𝐄
 Plato's Pizza enlisted the services of a BI Consultant to harness restaurant's data for operational improvement. Here are the questions we aimed to answer:
